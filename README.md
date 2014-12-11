@@ -1,4 +1,3 @@
-oc-theme-gea
-============
+# oc-theme-gea
 
-Gea Informatica (http://www.geasrlsolution.com) Theme for OctoberCMS
+> Gea Informatica (http://www.geasrlsolution.com) Theme for OctoberCMS.
